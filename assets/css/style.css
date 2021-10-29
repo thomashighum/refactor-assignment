@@ -24,6 +24,7 @@ main {
   margin-left: 20px;
 }
 
+/* right side section with icons */
 aside {
   margin-right: 20px;
   padding: 20px;
@@ -131,6 +132,7 @@ li {
   margin-left: 25px;
 }
 
+/* Fancy coloring on company name at the top */
 #seo {
   color: #d9dcd6;
 }
