@@ -2,6 +2,8 @@
 
 ##Description
 
+-Simple refactor assignment with basic CSS and HTMl focusing on SEO and accessability type factors.
+
 - Why complete this project? This was an assigned project for the DU coding bootcamp.
 - What was the goal? The goal was to take some unorganized and sloppy but functional html and css code and clean it up.
   The original html did not use any semantic elements and only "divs" so that was corrected as well as some linking with the navbar.
